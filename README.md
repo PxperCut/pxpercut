@@ -1,1 +1,3 @@
-[![pxpercut's GitHub stats](https://github-readme-stats.vercel.app/api?username=pxpercut)](https://github.com/pxpercut/github-readme-stats)
+![keegie's GitHub stats](https://github-readme-stats.vercel.app/api?username=pxpercut&show_icons=true&theme=dark) 
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxpercut&layout=compact&theme=dark&card_width=468)
