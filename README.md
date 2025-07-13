@@ -1,1 +1,1 @@
-[![pxpercut's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/pxpercut/github-readme-stats)
+[![pxpercut's GitHub stats](https://github-readme-stats.vercel.app/api?username=pxpercut)](https://github.com/pxpercut/github-readme-stats)
